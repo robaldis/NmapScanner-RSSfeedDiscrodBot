@@ -1,0 +1,7 @@
+to be done 13/06/2020:
+  ☐ swap over to using pythinl libs for jokes and insults
+  ✔ creating a rss feed command @done(20-06-14 12:43)
+  ✔ add a settings command to change the settings of the rss feed @done(20-06-14 14:51)
+    - where the feed needs to be placed
+    - command to add and remove feeds
+  

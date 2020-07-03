@@ -1,0 +1,26 @@
+{
+    'title': "'I'm really lucky to be here': The road to recovery after coronavirus - ITV News", 
+    'title_detail': {"type': 'text/plain', 'language': None, 'base': "https://news.google.com/rss?hl=en-GB&amp;ned=us&amp;gl=US&gl=GB&ceid=GB:en", 'value': "'I'm really lucky to be here': The road to recovery after coronavirus - ITV News"}, 
+    'links': [{'rel': 'alternate', 'type': 'text/html', 
+    'href': 'https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3Lml0di5jb20vbmV3cy8yMDIwLTA2LTEzL2ktbS1yZWFsbHktbHVja3ktdG8tYmUtaGVyZS10aGUtcm9hZC10by1yZWNvdmVyeS1hZnRlci1jb3JvbmF2aXJ1cy_SAQA?oc=5'}], 
+    'link': 'https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3Lml0di5jb20vbmV3cy8yMDIwLTA2LTEzL2ktbS1yZWFsbHktbHVja3ktdG8tYmUtaGVyZS10aGUtcm9hZC10by1yZWNvdmVyeS1hZnRlci1jb3JvbmF2aXJ1cy_SAQA?oc=5', 
+    'id': 'CBMiZ2h0dHBzOi8vd3d3Lml0di5jb20vbmV3cy8yMDIwLTA2LTEzL2ktbS1yZWFsbHktbHVja3ktdG8tYmUtaGVyZS10aGUtcm9hZC10by1yZWNvdmVyeS1hZnRlci1jb3JvbmF2aXJ1cy_SAQA', 
+    'guidislink': False, 
+    'published': 'Sat, 13 Jun 2020 14:45:00 GMT', 
+    'published_parsed': time.struct_time(tm_year=2020, tm_mon=6, tm_mday=13, tm_hour=14, tm_min=45, tm_sec=0, tm_wday=5, tm_yday=165, tm_isdst=0), 
+    'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3Lml0di5jb20vbmV3cy8yMDIwLTA2LTEzL2ktbS1yZWFsbHktbHVja3ktdG8tYmUtaGVyZS10aGUtcm9hZC10by1yZWNvdmVyeS1hZnRlci1jb3JvbmF2aXJ1cy_SAQA?oc=5" target="_blank">\'I\'m really lucky to be here\': The road to recovery after coronavirus</a>&nbsp;&nbsp;<font color="#6f6f6f">ITV News</font>', 
+    'summary_detail': {'type': 'text/html', 'language': None, 'base': 'https://news.google.com/rss?hl=en-GB&amp;ned=us&amp;gl=US&gl=GB&ceid=GB:en', 'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3Lml0di5jb20vbmV3cy8yMDIwLTA2LTEzL2ktbS1yZWFsbHktbHVja3ktdG8tYmUtaGVyZS10aGUtcm9hZC10by1yZWNvdmVyeS1hZnRlci1jb3JvbmF2aXJ1cy_SAQA?oc=5" target="_blank">\'I\'m really lucky to be here\': The road to recovery after coronavirus</a>&nbsp;&nbsp;<font color="#6f6f6f">ITV News</font>'}, 
+    'source': {'href': 'https://www.itv.com', 'title': 'ITV News'}}
+Sat, 13 Jun 2020 14:45:00 GMT
+
+
+
+
+
+
+{
+    "name"  :   "FEED_NAME",
+    "channel"   :   "FEED_CHANNEL",
+    "url"   :   "FEED_URL",
+    "time"  :   "time of last post/when its created whatever comes first"
+}
